@@ -2,10 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-.header{
-  @apply flex justify-between p-10
-}
 
-.navbar{
-  @apply flex justify-between gap-2
-}
