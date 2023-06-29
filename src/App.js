@@ -1,14 +1,9 @@
+import Header from "./Header"
+
 function App() {
   return (
-    <div>
-      <header>
-      <h1>Titulo</h1>
-      <nav>
-        <a href="#">Link</a>
-        <a href="#">Link</a>
-        <a href="#">Link</a>
-      </nav>
-      </header>
+    <>
+      <Header/>
 
       <main>
 
@@ -17,7 +12,7 @@ function App() {
       <footer>
         
       </footer>
-    </div>
+    </>
   );
 }
 
