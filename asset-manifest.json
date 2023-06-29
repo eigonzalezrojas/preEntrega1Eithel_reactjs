@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e50f937d.css",
+    "main.js": "/static/js/main.01e361f3.js",
+    "static/media/market-icon.gif": "/static/media/market-icon.2e84d5a483fee15cd0eb.gif",
+    "static/media/title-logo.png": "/static/media/title-logo.7425edf421d7f4525a81.png",
+    "index.html": "/index.html",
+    "main.e50f937d.css.map": "/static/css/main.e50f937d.css.map",
+    "main.01e361f3.js.map": "/static/js/main.01e361f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e50f937d.css",
+    "static/js/main.01e361f3.js"
+  ]
+}
