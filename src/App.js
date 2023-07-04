@@ -1,13 +1,17 @@
-import Header from "./components/Navbar"
+import Navbar from "./components/Navbar"
 import Main from './components/Main'
+import ItemListContainer from './components/ItemListContainer'
 
 function App() {
   return (
     <>
-      <Header/>
+      <header>
+        <Navbar/>
+      </header>
 
       <main>
-        <Main></Main>
+        <ItemListContainer texto="Bienvenido"/>
+        <Main/>
       </main>
 
       <footer>
