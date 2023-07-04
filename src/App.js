@@ -10,7 +10,7 @@ function App() {
       </header>
 
       <main>
-        <ItemListContainer texto="Bienvenido"/>
+        <ItemListContainer greeting="Bienvenido"/>
         <Main/>
       </main>
 
