@@ -1,4 +1,5 @@
-import Header from "./Navbar"
+import Header from "./components/Navbar"
+import Main from './components/Main'
 
 function App() {
   return (
@@ -6,7 +7,7 @@ function App() {
       <Header/>
 
       <main>
-
+        <Main></Main>
       </main>
 
       <footer>
